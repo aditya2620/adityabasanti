@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript and exploring web3 space**
 
-- 📫 How to reach me **adityabasanti@gmail.com**
+- 📫 How to reach me **adityabasanti02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
