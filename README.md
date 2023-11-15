@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Aditya!👋</h1>
 <h3 align="center">Web Developer</h3>
-<img align="center" alt="loading" src="https://cdn.dribbble.com/users/266011/screenshots/4882300/shot_still_2x.gif?compress=1&resize=500x300">
+<img align="center" alt="loading" src="https://cdn.dribbble.com/users/266011/screenshots/4882300/shot_still_2x.gif?compress=1&resize=400x300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityabasanti&label=Profile%20views&color=0e75b6&style=flat" alt="adityabasanti" /> </p>
 
