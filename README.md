@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityabasanti&label=Profile%20views&color=0e75b6&style=flat" alt="adityabasanti" /> </p>
 
-- 🌱 I’m currently learning **Javascript and exploring web3 space**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **adityabasanti02@gmail.com**
 
