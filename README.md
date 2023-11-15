@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Basanti</h1>
+<h1 align="center">Hi there,I'm Aditya!👋</h1>
 <h3 align="center">Web Developer</h3>
 <img align="right" alt="loading" src="https://cdn.dribbble.com/users/266011/screenshots/4882300/shot_still_2x.gif?compress=1&resize=400x300">
 
