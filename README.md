@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityabasanti&label=Profile%20views&color=0e75b6&style=flat" alt="adityabasanti" /> </p>
 
-<p align="left"> <a href="https://twitter.com/adityabasanti" target="blank"><img src="https://img.shields.io/twitter/follow/adityabasanti?logo=twitter&style=for-the-badge" alt="adityabasanti" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript and exploring web3 space**
 
 - 📫 How to reach me **adityabasanti02@gmail.com**
