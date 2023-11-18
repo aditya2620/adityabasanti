@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Aditya!👋</h1>
 <!-- <h3 align="center">Web Developer</h3> -->
-<img align="center" alt="loading" src="https://i.pinimg.com/originals/2d/18/cb/2d18cb0335aa68b8989783790d91fc2a.gif">
+<!-- <img align="center" alt="loading" src="https://i.pinimg.com/originals/2d/18/cb/2d18cb0335aa68b8989783790d91fc2a.gif"> -->
+<img align="center" alt="loading" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityabasanti&label=Profile%20views&color=0e75b6&style=flat" alt="adityabasanti" /> </p>
 
